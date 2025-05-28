@@ -1,4 +1,5 @@
-## Hi there 👋
+
+뭐 보러 왔냐. 보지마
 
 <!--
 **gae-ddong/gae-ddong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
